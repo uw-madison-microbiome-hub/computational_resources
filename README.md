@@ -1,7 +1,3 @@
----
-layout: default 
----
-
 Microbiome
 
 # Microbiome Hub - central campus scripts repository
