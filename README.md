@@ -9,3 +9,8 @@ link to how to add labs scripts to the site
 
 ### McMahon Lab
 [McMahon Lab github page](https://github.com/McMahonLab)
+
+
+### UW - Madison Data Science Hub
+[Data Science Hub Github Organziation](https://github.com/UW-Madison-DataScience/)
+
