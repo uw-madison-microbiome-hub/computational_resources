@@ -15,6 +15,4 @@ make a pull request on README.md
 ```
 
 
-_yay_
-
 [back](./)
