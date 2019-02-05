@@ -6,7 +6,7 @@ Follow this [link](https://uw-madison-microbiome-hub.github.io/computational_res
 ## Resources
 
 
-### [McMahon Lab](https://github.com/McMahonLab)
+### [McMahon Lab - github](https://github.com/McMahonLab)
 
 #### [TaxAss github page](https://github.com/McMahonLab/TaxAss)   
 TaxAss is a Taxonomy Assignment workflow that lets you classify 16S datasets using two different taxonomy reference databases. TaxAss was developed so that the McMahon Lab's Freshwater Training Set (the FreshTrain) could be used for taxonomy assignment alongside comprehensive databases like Greengenes or Silva. We believe TaxAss will also work with other custom databases (so if that's you, get in touch!)   
