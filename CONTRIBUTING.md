@@ -12,10 +12,10 @@ Please add the following information.
 ### XXX Lab
 [XXX github page](LINK TO GITHUB PAGE) - (optional)
 
-## Name of Pipleline/script 1
+#### Name of Pipleline/script 1
 - [pipeline](LINK TO GitHub REPO)
 
-## Name of Pipleline/script 2
+#### Name of Pipleline/script 2
 - [pipeline](LINK TO GitHub REPO)
 ```
 
