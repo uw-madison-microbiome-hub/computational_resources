@@ -1,7 +1,7 @@
 
-The purpose of this repository is consolidate multiple scripts/pipelines developed by UW-Madison microbiome community members. We hope this resource support campus researchers with their data analysis.    
+The purpose of this repository is consolidate scripts/pipelines developed and shared by UW-Madison microbiome community members. We hope this resource will support campus researchers with their data analysis.    
 
-link to how to add labs scripts to the site
+follow this link to find a template on how to add scripts to this site
 
 ## Resources
 
