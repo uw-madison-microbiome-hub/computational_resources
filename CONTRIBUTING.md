@@ -4,8 +4,7 @@ layout: default
 
 ## CONTRIBUTING
 
-Under resources 
-make a pull request on README.md
+To add your scripts/pipelines on please make a pull  request on README.md by either clicking on the view on GitHub tab on the top right hand corner of this page or this [link]( 
 Please add the following information. 
 
 ```
