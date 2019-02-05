@@ -21,6 +21,7 @@ Contact [Name of contact](mailto:xxxx@wisc.edu)
 [pipeline](LINK TO GitHub REPO)
 Description (1 - 3 sentences)
 Email Address for contact person
+Contact [Name of contact](mailto:xxxx@wisc.edu) 
 ```
 
 
