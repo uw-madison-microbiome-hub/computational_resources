@@ -5,7 +5,7 @@ If you would like to contribute, please follow this [link](https://uw-madison-mi
 
 To access or add your **CHTC/ HTcondor** submit files to the centralized repository please click this [link](https://uw-madison-microbiome-hub.github.io/CHTC_submit-files/)  
 
-If you have any questions, join the discussions at [slack](https://madisonmicrobiomehub.slack.com/)   
+If you have any questions, join the discussions at [slack](https://madisonmicrobiomehub.slack.com/){:target="_blank"} 
 
 
 ## Resources
