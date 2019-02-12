@@ -1,7 +1,7 @@
 
 The purpose of this repository is consolidate scripts/pipelines developed and shared by UW-Madison microbiome community members. We hope this resource will support campus researchers with their data analysis.    
 
-Follow this [link](https://uw-madison-microbiome-hub.github.io/computational_resources/CONTRIBUTING) to find a template on how to add scripts to this site.
+If you would like to contribute, please follow this [link](https://uw-madison-microbiome-hub.github.io/computational_resources/CONTRIBUTING) to find a template on how to add your scripts to this site.
 
 To access or add **CHTC/ HTcondor** submit files please click this [link](https://uw-madison-microbiome-hub.github.io/CHTC_submit-files/)  
 
