@@ -3,6 +3,9 @@ The purpose of this repository is consolidate scripts/pipelines developed and sh
 
 Follow this [link](https://uw-madison-microbiome-hub.github.io/computational_resources/CONTRIBUTING) to find a template on how to add scripts to this site.
 
+To access or add CHTC/ HTcondor submit files please click this [link](https://uw-madison-microbiome-hub.github.io/CHTC_submit-files/)  
+
+
 ## Resources
 
 
