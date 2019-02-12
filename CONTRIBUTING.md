@@ -11,7 +11,7 @@ If you are unable or unsure of how to make a pull request. Please create an issu
 Please add the following information. 
 
 ```
-### [XXX - github](LINK TO GITHUB PAGE) - (optional)
+### [XXX lab - github](LINK TO GITHUB PAGE) - (optional)
 
 #### [pipeline/script 1](LINK TO GitHub REPO)
 Description (1 - 3 sentences)
